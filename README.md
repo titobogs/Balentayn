@@ -126,8 +126,8 @@
   <div class="card">
     <div class="hearts" id="hearts"></div>
 
-    <h1>Will you go to Valentine’s with me? 💘</h1>
-    <p>Be honest… but also… try clicking “No” 😈</p>
+    <h1>Valentiness na oh Wifeyyy TARAAAA 💘</h1>
+    <p>Pag ikaw nag no GRRRRRRRRRRRRRRR 😈</p>
 
     <div class="topButtons">
       <button class="btn" id="yesBtn">Yes 💖</button>
@@ -163,11 +163,11 @@
       noBtn.style.top = y + "px";
 
       const msgs = [
-        "Nice try 😭",
-        "Nope 😼",
-        "You can’t catch me 🏃‍♂️💨",
-        "Pick Yes already 😇",
-        "Try again 😏"
+        "HAHAHAHA 😭",
+        "AYAWWWW😼",
+        "DII MOKO MAHABOOLLL 🏃‍♂️💨",
+        "YESS NA NGANIIII 😇",
+        "HEHEHEHEH 😏"
       ];
       status.textContent = msgs[Math.floor(Math.random() * msgs.length)];
     }
